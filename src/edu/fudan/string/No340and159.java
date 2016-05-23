@@ -15,7 +15,7 @@ import java.util.Map;
  * reference:http://blog.csdn.net/whuwangyi/article/details/42451289
  *
  */
-public class No340 {
+public class No340and159 {
 	
 	
 	/**
