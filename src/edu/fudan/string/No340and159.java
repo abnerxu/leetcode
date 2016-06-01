@@ -19,6 +19,7 @@ public class No340and159 {
 	
 	
 	/**
+	 * NO340
 	 * map<Character,Integer>  key£ºcharacter value:count
 	 * @param s
 	 * @param k
@@ -55,8 +56,9 @@ public class No340and159 {
 		}
 		return maxLen;
 	}
-	
+	 
 	/**
+	 * NO159
 	 * sliding window : map<Character,Integer>  key£ºcharacter value:position
 	 * delete the most left character which appeared last.
 	 * should find the new start position every time.
